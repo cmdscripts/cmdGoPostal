@@ -1,5 +1,5 @@
 # cmdGoPostal
-
+## [Preview](https://streamable.com/pmymn6)
 A GoPostal delivery job resource for FiveM servers running the ESX framework. Players pick up packages at the depot, load them into a van, and deliver them to randomized drop-off locations across the map. Faster deliveries earn higher pay and tips.
 
 ## Features
