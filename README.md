@@ -11,7 +11,7 @@ A GoPostal delivery job resource for FiveM servers running the ESX framework. Pl
 - **Tip System** — Deliveries completed under a time threshold award random cash tips via inventory or account fallback.
 - **Carry Animation** — Full box-carry animation with attached prop while holding a package.
 - **Bilingual** — Built-in locale support for German (`de`) and English (`en`).
-- **Vehicle Key Integration** — Automatically grants/revokes van keys via `cmdVehiclekeys`.
+- **Vehicle Key Integration** — Automatically grants/revokes van keys via `cmdVehiclekeys` or customize your keylock script!.
 - **Clean Cleanup** — All spawned entities (van, packages, props, blips) are removed on job end, player disconnect, or resource stop.
 
 ## Dependencies
